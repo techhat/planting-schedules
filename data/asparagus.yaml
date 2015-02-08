@@ -1,0 +1,38 @@
+name: Asparagus
+latin_name: asparagus officinalis
+family: Lily
+latin_family: liliaceae
+height: 4-6 feet
+sq_ft_spacing: 1 or 4 per square
+growing_season:
+  spring: yes
+  summer: yes
+  autumn: no
+  winter: no
+seed_to_harvest: 3 years
+seed_storage: 3 years
+weeks_to_maturity: 12
+indoor_start: 10-12 weeks before last frost
+earliest_outdoor: 2-4 weeks before last frost
+additional_plantings: not needed
+last_planting: not needed
+location: full sun
+watering: weekly, more in the summer
+transplant: 1 or 2 year old crowns
+soil_temp_optimum: 75-85F
+soil_temp_minimum: 50F
+spacing_within_row: 8-14 inches
+root_system_depth: deep
+trench_depth: 6-8 inches
+spacing_between_rows: 3-5 feet
+transplant_difficulty: easy
+nitrogen_consumption: low
+yield_per_10ft_row: 3 lbs
+references:
+  - book_title: Guide to Rocky Mountain Vegetable Gardening
+    book_author: Robert Gough & Cheryl Moore-Gough
+    book_isbn_10: 1-59186-457-7
+  - book_title: All New Square Foot Gardening
+    book_author: Mel Bartholomew
+    book_isbn_13: 978-1-59186-202-4
+    book_isbn_10: 1-59186-202-4
